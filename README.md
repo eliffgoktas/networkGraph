@@ -9,4 +9,5 @@ http://www-personal.umich.edu/~mejn/netdata/
 ## Les Miserables:
 Coappearance network of characters in the novel Les Miserables.
 D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993).
-http://www-personal.umich.edu/~mejn/netdata/
+http://www-personal.umich.edu/~mejn/netdata/  
+![Les Miserables](https://raw.githubusercontent.com/imranec/networkGraph/master/Les-Miserables.png)
