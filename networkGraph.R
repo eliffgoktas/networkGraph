@@ -41,7 +41,14 @@ if(!file.exists("lesmis.zip")) {
 
 unzip("lesmis.zip")
 
-# read gml file
 lesMis <- read.graph("lesmis.gml", format = c("gml"))
 
 plot(lesMis)
+
+# add some style
+plot(lesMis,
+     vertex.size=9,
+     vertex.label.family="Arial",
+     vertex.color=rgb(0.5, 0.3, 0.3, alpha = 0.3),
+     vertex.label.color="black",
+     vertex.label.cex = 0.7)
